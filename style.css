@@ -1,0 +1,13 @@
+.main-nav {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+.main-nav li {
+margin: 0 0 10px 0;
+padding: 3px;
+background: #fc0;
+}
+.main-nav a {
+color: #000;
+}

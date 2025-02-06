@@ -1,0 +1,10 @@
+[title] {
+    color: maroon;
+} 
+    a[href] {
+    background: green;
+    }
+    a[target="_blank"] {
+    background: #ccc;
+    padding-left: 15px;
+    }
