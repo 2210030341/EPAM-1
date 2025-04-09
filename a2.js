@@ -1,4 +1,2 @@
-var a= 10;
-console.log(a);
-var a=20;
-console.log(a);
+var newname = "123";
+console.log(typeof (newname));
